@@ -5,6 +5,10 @@ My interpretation of non-breaking spaces is that they should be treated the same
 spaces as if they are not a whitespace character and prevents formatting like bullet points from displaying as bullet points if the '*' is
 followed by one of these non-breaking spaces.
 
+Testing GitHub's interpretation of said markdown below:
+* This bullet doesn't bullet
+* This bullet does bullet
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
 ## Development server
