@@ -6,6 +6,7 @@ spaces as if they are not a whitespace character and prevents formatting like bu
 followed by one of these non-breaking spaces.
 
 Testing GitHub's interpretation of said markdown below:
+
 * This bullet doesn't bullet
 * This bullet does bullet
 
